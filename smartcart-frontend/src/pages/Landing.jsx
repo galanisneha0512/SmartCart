@@ -71,7 +71,7 @@ export default function Landing() {
               onClick={() => navigate("/signup")}
               className="px-8 py-3.5 bg-white/10 text-white font-medium rounded-xl hover:bg-white/20 transition-all text-sm border border-white/20"
             >
-              Become a Seller 🏪
+              Join now 🏪
             </button>
           </div>
 

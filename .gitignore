@@ -1,0 +1,19 @@
+# Frontend
+smartcart-frontend/node_modules/
+smartcart-frontend/dist/
+
+# Backend
+smartcart-backend/venv/
+smartcart-backend/.venv/
+smartcart-backend/__pycache__/
+smartcart-backend/*.pyc
+smartcart-backend/uploads/
+
+# Environment files
+.env
+smartcart-backend/.env
+smartcart-frontend/.env
+
+# OS files
+.DS_Store
+Thumbs.db

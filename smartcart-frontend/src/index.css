@@ -2,8 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-@theme {
-  --font-serif: "Georgia", "Times New Roman", serif;
+@layer base {
+  .font-serif {
+    font-family: "Georgia", "Times New Roman", serif;
+  }
 }
 
 @keyframes fadeUp {

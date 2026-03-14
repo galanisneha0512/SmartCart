@@ -7,9 +7,7 @@ import os
 
 load_dotenv()
 
-# quote_plus safely encodes special characters like @ # $ in password
 password = quote_plus(os.getenv("DB_PASSWORD", ""))
-
 DB_URL = (
     f"mysql+pymysql://{os.getenv('DB_USER')}:{password}"
     f"@{os.getenv('DB_HOST')}:{os.getenv('DB_PORT')}/{os.getenv('DB_NAME')}"

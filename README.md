@@ -7,15 +7,27 @@ A full-stack marketplace where sellers manage their own stores and buyers can br
 ---
 
 ## Screenshots
-Landing Page
 
-Shop Page
+### Buyer Experience
+| Landing Page | Login | Signup |
+|---|---|---|
+| ![Landing](Landing%20Page.jpeg) | ![Login](Login%20Page.jpeg) | ![Signup](Signup%20Page.jpeg) |
 
-Seller Dashboard
+| Shop Page | Filter | Cart |
+|---|---|---|
+| ![Shop](Shop.jpeg) | ![Filter](Filter.jpeg) | ![Cart](Cart.jpeg) |
 
-Checkout
+| Checkout | My Orders |
+|---|---|
+| ![Checkout](Checkout.jpeg) | ![My Orders](Buyer%20My%20Orders.jpeg) |
 
-AI Chatbot
+### Seller Experience
+| Dashboard | Add Product |
+|---|---|
+| ![Dashboard](Seller%20Dashboard.jpeg) | ![Add Product](Add%20Product.jpeg) |
+
+### AI Chatbot
+![Chatbot](Chat%20bot.jpeg)
 
 ---
 
